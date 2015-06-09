@@ -1,0 +1,14 @@
+{
+  "name": "faustcplus-server",
+  "version": "1.0.0",
+  "description": "express 3.x版接收flash传输的数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies":{
+    "express":"~3.3.8"
+  }
+}
