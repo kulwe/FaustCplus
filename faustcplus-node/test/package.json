@@ -1,7 +1,7 @@
 {
-  "name": "faustcplus-server",
+  "name": "faustcplus-test",
   "version": "1.0.0",
-  "description": "express 3.x°æ½ÓÊÕflash´«ÊäµÄÊı¾İ",
+  "description": "express 3.xç‰ˆæ¥æ”¶flashä¼ è¾“çš„æ•°æ®",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
